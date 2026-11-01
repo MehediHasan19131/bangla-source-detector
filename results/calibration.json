@@ -1,0 +1,90 @@
+{
+  "banglabert": {
+    "10": {
+      "accuracy_mean": 0.7012,
+      "accuracy_std": 0.0338,
+      "recall_synthetic_mean": 0.7266
+    },
+    "25": {
+      "accuracy_mean": 0.7186,
+      "accuracy_std": 0.0176,
+      "recall_synthetic_mean": 0.7537
+    },
+    "50": {
+      "accuracy_mean": 0.7225,
+      "accuracy_std": 0.0138,
+      "recall_synthetic_mean": 0.7566
+    },
+    "100": {
+      "accuracy_mean": 0.7254,
+      "accuracy_std": 0.0099,
+      "recall_synthetic_mean": 0.7648
+    }
+  },
+  "linsvm_tfidf_char": {
+    "10": {
+      "accuracy_mean": 0.6507,
+      "accuracy_std": 0.0345,
+      "recall_synthetic_mean": 0.665
+    },
+    "25": {
+      "accuracy_mean": 0.6556,
+      "accuracy_std": 0.0255,
+      "recall_synthetic_mean": 0.6942
+    },
+    "50": {
+      "accuracy_mean": 0.6623,
+      "accuracy_std": 0.0149,
+      "recall_synthetic_mean": 0.7482
+    },
+    "100": {
+      "accuracy_mean": 0.6678,
+      "accuracy_std": 0.0114,
+      "recall_synthetic_mean": 0.7328
+    }
+  },
+  "logreg_features": {
+    "10": {
+      "accuracy_mean": 0.651,
+      "accuracy_std": 0.0343,
+      "recall_synthetic_mean": 0.7171
+    },
+    "25": {
+      "accuracy_mean": 0.662,
+      "accuracy_std": 0.0253,
+      "recall_synthetic_mean": 0.7765
+    },
+    "50": {
+      "accuracy_mean": 0.665,
+      "accuracy_std": 0.0166,
+      "recall_synthetic_mean": 0.7966
+    },
+    "100": {
+      "accuracy_mean": 0.6718,
+      "accuracy_std": 0.0085,
+      "recall_synthetic_mean": 0.8184
+    }
+  },
+  "logreg_tfidf_word": {
+    "10": {
+      "accuracy_mean": 0.5963,
+      "accuracy_std": 0.0207,
+      "recall_synthetic_mean": 0.5709
+    },
+    "25": {
+      "accuracy_mean": 0.5982,
+      "accuracy_std": 0.0195,
+      "recall_synthetic_mean": 0.5661
+    },
+    "50": {
+      "accuracy_mean": 0.6049,
+      "accuracy_std": 0.0129,
+      "recall_synthetic_mean": 0.6378
+    },
+    "100": {
+      "accuracy_mean": 0.6089,
+      "accuracy_std": 0.0104,
+      "recall_synthetic_mean": 0.6214
+    }
+  }
+}
